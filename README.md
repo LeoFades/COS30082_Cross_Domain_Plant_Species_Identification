@@ -15,3 +15,7 @@ Done by :
 5. Natalie ROBERT - 102787350
 
 Video Presentation - https://youtu.be/wksmN8qxfRo
+
+HuggingFace Deployment - https://huggingface.co/spaces/LeoFades/COS30082_Herbarium_Field_Classification
+
+HuggingFace Models - https://huggingface.co/LeoFades/models
